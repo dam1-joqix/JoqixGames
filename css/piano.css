@@ -1,0 +1,54 @@
+#canvas{
+	display: grid;
+	/*grid-template-columns: repeat(9, 1fr);*/
+	grid-template-areas: "do re mi fa sol la si do2 re2 ritmo1"
+	"do re mi fa sol la si do2 re2 ritmo2"
+	"do re mi fa sol la si do2 re2 ritmo3";
+	background-color: #fff;
+}
+#do{
+  grid-area: do;
+}
+#re{
+  grid-area: re;
+}
+#mi{
+  grid-area: mi;
+}
+#fa{
+  grid-area: fa;
+}
+#sol{
+  grid-area: sol;
+}
+#la{
+  grid-area: la;
+}
+#si{
+  grid-area: si;
+}
+#do2{
+  grid-area: do2;
+}
+#re2{
+  grid-area: re2;
+}
+#ritmo1{
+  grid-area: ritmo1;
+}
+#ritmo2{
+  grid-area: ritmo2;
+}
+#ritmo3{
+  grid-area: ritmo3;
+}
+.nota{
+	border: 4px outset #cccccc;
+}
+.nota:hover{
+  background-color: lightgray;
+}
+.nota:active{
+  border: 4px inset #ccc;
+}
+
