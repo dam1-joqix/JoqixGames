@@ -35,7 +35,7 @@ a, a:visited{
 a:hover, a:active{
 	color: pink;
 }
-p{
+p, code{
 	background-color: rgba(31,30,30,0.15);
 }
 a.btn{

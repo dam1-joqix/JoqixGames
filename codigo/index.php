@@ -91,7 +91,18 @@
                   </div>
                 </div><!--/card-->
               </div><!--/col-->
-             
+             <div class="col-md-4 col-sm-6 col-12 m-auto">
+                <div class="card my-2" >
+                    <img src="../img/codigo.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Ver el código</h5>
+                        <p class="card-text">Accede al código en github</p>
+                    </div>
+                    <div class="card-footer">
+                      <a href="https://github.com/dam1-joqix/JoqixGames/tree/master/juegos" target="_blank" class="btn btn-secondary ">Ver el código</a>
+                  </div>
+                </div><!--/card-->
+              </div><!--/col-->
             
         </div><!--/row-->
 	  <?php endif;?>

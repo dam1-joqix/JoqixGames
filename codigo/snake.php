@@ -355,7 +355,7 @@ setInterval("main()", velocidad);
 		</div>
 		<div class="col text-center">
 			<i class="fab fa-github" style="font-size: 5em"></i>
-			<p>Puedes ver el código aquí: <a href="#" target="_blank">http://example.com</a></p>
+			<p>Puedes ver el código aquí: <a href="https://github.com/dam1-joqix/JoqixGames/tree/master/juegos/snake" target="_blank">https://github.com/dam1-joqix/JoqixGames/tree/master/juegos/snake</a></p>
 		</div>
 		</div>
             
